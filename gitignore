@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Generated analysis outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.xlsx
+*.html
+
+# Optional: local dataset copies (uncomment if you do not want to push the CSV to GitHub)
+# 23_delivery_performance.csv
