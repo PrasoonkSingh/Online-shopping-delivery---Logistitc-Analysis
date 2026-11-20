@@ -1,0 +1,101 @@
+Shipment_ID,Order_Date,Delivery_Date,Shipping_Method,Delivery_Partner,Shipping_Cost,Order_Status
+SH1001,2026-04-04,2026-04-06,Express,Ecom Express,100.59,Delivered
+SH1002,2026-04-02,,Express,Ecom Express,109.96,Cancelled
+SH1003,2026-07-20,2026-07-27,Standard,Delhivery,198.16,Delivered
+SH1004,2026-08-15,2026-08-21,Standard,Delhivery,136.23,Delivered
+SH1005,2026-03-20,,Standard,Ecom Express,84.4,Cancelled
+SH1006,2026-08-13,2026-08-19,Express,DTDC,52.89,Delayed
+SH1007,2026-10-18,2026-10-22,Express,Delhivery,220.24,Delayed
+SH1008,2026-05-05,2026-05-10,Standard,Delhivery,,Delivered
+SH1009,2026-04-08,,Standard,DTDC,181.36,In Transit
+SH1010,2026-09-10,2026-09-11,Express,Blue Dart,52.56,Delivered
+SH1011,2026-10-23,2026-10-23,Same Day,Blue Dart,40.9,Delivered
+SH1012,2026-07-28,,Standard,Blue Dart,104.5,In Transit
+SH1013,2026-04-13,,Express,Delhivery,41.66,Delivered
+SH1014,2026-07-21,2026-07-26,Standard,Blue Dart,79.31,Delivered
+SH1015,2026-01-13,2026-01-14,Express,Blue Dart,244.97,Delivered
+SH1016,2026-06-13,2026-06-19,Standard,Blue Dart,130.74,Delivered
+SH1017,2026-02-15,,Express,Ecom Express,196.32,In Transit
+SH1018,2026-06-20,2026-06-24,Standard,Ecom Express,230.81,Delivered
+SH1019,2026-01-02,2026-01-04,Express,Ecom Express,141.15,Delivered
+SH1020,2026-10-04,2026-10-10,Standard,DTDC,202.17,Delivered
+SH1021,2026-07-08,2026-07-12,Express,Delhivery,162.54,Delivered
+SH1022,2026-09-07,2026-09-13,Express,Ecom Express,132.76,Delayed
+SH1023,2026-04-24,2026-04-25,Same Day,Ecom Express,203.23,Delivered
+SH1024,2026-03-15,,Standard,DTDC,76.7,In Transit
+SH1025,2026-08-04,2026-08-11,Standard,India Post,87.86,Delivered
+SH1026,2026-09-25,,Same Day,Delhivery,160.19,Cancelled
+SH1027,2026-08-17,2026-08-18,Express,DTDC,89.48,Delivered
+SH1028,2026-07-02,2026-07-04,Express,Delhivery,61.96,Delivered
+SH1029,2026-02-04,2026-02-05,Express,Ecom Express,156.31,Delivered
+SH1030,2026-05-23,2026-05-30,Standard,DTDC,183.23,Delivered
+SH1031,2026-05-23,,Express,DTDC,114.72,In Transit
+SH1032,2026-06-11,2026-06-17,Standard,India Post,,Delivered
+SH1033,2026-09-17,2026-09-23,Standard,Ecom Express,165.34,Delivered
+SH1034,2026-06-13,2026-06-19,Standard,DTDC,96.67,Delivered
+SH1035,2026-06-28,2026-07-04,Standard,Blue Dart,105.99,Delivered
+SH1036,2026-05-26,2026-05-31,Standard,Delhivery,74.11,Delivered
+SH1037,2026-05-19,2026-05-25,Standard,Delhivery,188.25,Delivered
+SH1038,2026-10-16,2026-10-20,Express,Blue Dart,136.62,Delivered
+SH1039,2026-01-12,2026-01-18,Standard,DTDC,199.81,Delivered
+SH1040,2026-08-15,2026-08-21,Standard,Blue Dart,148.21,Delivered
+SH1041,2026-04-14,2026-04-18,Express,Ecom Express,210.93,Delivered
+SH1042,2026-02-02,2026-02-10,Standard,Delhivery,175.43,Delivered
+SH1043,2026-07-16,,Express,India Post,136.34,Cancelled
+SH1044,2026-03-26,,Express,Blue Dart,169.6,In Transit
+SH1045,2026-07-07,2026-07-09,Express,DTDC,179.07,Delivered
+SH1046,2026-04-21,2026-04-24,Express,DTDC,72.25,Delivered
+SH1047,2026-08-29,,Same Day,DTDC,133.34,Delayed
+SH1048,2026-10-22,,Standard,Blue Dart,68.06,In Transit
+SH1049,2026-10-08,2026-10-16,Standard,Delhivery,195.28,Delivered
+SH1050,2026-06-18,2026-06-22,Express,Blue Dart,148.6,Delivered
+SH1051,2026-04-06,,Standard,Blue Dart,214.47,In Transit
+SH1052,2026-07-08,2026-07-13,Express,Blue Dart,114.9,Delayed
+SH1053,2026-02-14,2026-02-17,Express,India Post,221.14,Delivered
+SH1054,2026-10-14,2026-10-14,Same Day,Blue Dart,47.61,Delivered
+SH1055,2026-05-02,2026-05-08,Standard,DTDC,52.48,Delivered
+SH1056,2026-09-05,2026-09-12,Standard,Delhivery,105.91,Delivered
+SH1057,2026-09-08,2026-09-09,Express,Ecom Express,84.25,Delivered
+SH1058,2026-03-12,2026-03-15,Standard,Blue Dart,137.65,Delivered
+SH1059,2026-09-09,2026-09-14,Standard,Delhivery,94.23,Delivered
+SH1060,2026-03-18,2026-03-20,Standard,Blue Dart,187.74,Delivered
+SH1061,2026-10-17,2026-10-23,Standard,India Post,209.7,Delivered
+SH1062,2026-06-30,2026-07-08,Standard,Ecom Express,207.38,Delivered
+SH1063,2026-10-04,2026-10-09,Standard,Ecom Express,211.38,Delivered
+SH1064,2026-06-01,2026-06-04,Standard,DTDC,62.81,Delivered
+SH1065,2026-06-15,2026-06-17,Express,Ecom Express,81.83,Delivered
+SH1066,2026-01-05,,Standard,Delhivery,223.09,In Transit
+SH1067,2026-08-16,2026-08-19,Express,Delhivery,230.02,Delivered
+SH1068,2026-06-12,2026-06-15,Same Day,DTDC,244.03,Delayed
+SH1069,2026-10-26,2026-11-01,Standard,Blue Dart,234.13,Delayed
+SH1070,2026-10-10,2026-10-11,Express,Delhivery,145.51,Delivered
+SH1071,2026-01-14,2026-01-15,Express,India Post,94.46,Delivered
+SH1072,2026-07-24,2026-07-29,Standard,Delhivery,41.48,Delivered
+SH1073,2026-03-08,2026-03-16,Standard,DTDC,143.34,Delivered
+SH1074,2026-02-11,,Standard,Blue Dart,46.04,Cancelled
+SH1075,2026-01-06,2026-01-12,Standard,DTDC,157.67,Delivered
+SH1076,2026-07-30,,Express,Ecom Express,61.44,Cancelled
+SH1077,2026-06-11,2026-06-11,Same Day,Delhivery,74.0,Delivered
+SH1078,2026-02-23,2026-02-27,Standard,DTDC,86.19,Delivered
+SH1079,2026-03-13,2026-03-14,Express,Blue Dart,138.58,Delivered
+SH1080,2026-10-20,2026-10-23,Express,Blue Dart,81.18,Delivered
+SH1081,2026-05-01,2026-05-03,Standard,DTDC,121.96,Delivered
+SH1082,2026-06-12,2026-06-16,Express,India Post,229.61,Delivered
+SH1083,2026-08-14,2026-08-20,Standard,Blue Dart,124.49,Delivered
+SH1084,2026-09-25,2026-09-29,Same Day,Ecom Express,219.82,Delayed
+SH1085,2026-07-05,2026-07-07,Standard,Blue Dart,119.93,Delivered
+SH1086,2026-08-20,2026-08-28,Standard,Ecom Express,72.05,Delivered
+SH1087,2026-05-03,2026-05-04,Express,Delhivery,109.07,Delivered
+SH1088,2026-10-18,2026-10-21,Express,India Post,220.0,Delivered
+SH1089,2026-08-03,2026-08-06,Express,Delhivery,164.07,Delivered
+SH1090,2026-06-05,2026-06-05,Same Day,Ecom Express,110.96,Delivered
+SH1091,2026-06-14,2026-06-18,Standard,Delhivery,80.78,Delivered
+SH1092,2026-05-29,2026-06-01,Express,Delhivery,174.6,Delivered
+SH1093,2026-05-02,,Standard,DTDC,120.85,In Transit
+SH1094,2026-01-19,2026-01-22,Express,DTDC,210.62,Delivered
+SH1095,2026-09-16,2026-09-21,Standard,Delhivery,70.51,Delivered
+SH1096,2026-07-21,2026-07-25,Express,Blue Dart,233.46,Delivered
+SH1097,2026-09-28,,Standard,Delhivery,199.3,Cancelled
+SH1098,2026-03-14,2026-03-19,Standard,India Post,204.16,Delivered
+SH1099,2026-03-19,2026-03-22,Express,DTDC,151.29,Delivered
+SH1005,2026-03-20,2026-03-27,Standard,DTDC,182.56,Delivered
